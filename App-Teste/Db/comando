@@ -1,0 +1,2 @@
+insert into norma values(11,"AWWA C207","150psi - ressalto");
+insert into norma values(12,"AWWA C207","275psi - ressalto");
